@@ -57,4 +57,4 @@ while True:
 ![ex 2b server](https://github.com/NaliniG007/2b_SLIDING_WINDOW_PROTOCOL/assets/148937372/1d84848d-1f37-45a9-92d0-03cb87bcec39)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform implementation of sliding window protocol was successfully executed.
